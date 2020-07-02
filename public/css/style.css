@@ -1,0 +1,13 @@
+nav a {
+    color: white;
+}
+nav a:hover {
+    color: white;
+    text-decoration: none;
+}
+nav .nav-link:hover {
+    border-radius: 5px;
+    background-color: #3ad8de;
+    box-shadow: 0 0 5px white;
+    transition: .5s;
+}
